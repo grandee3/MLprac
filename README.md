@@ -1,1 +1,1 @@
-# MLprac
+Machine learning practice
